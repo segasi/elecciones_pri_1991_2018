@@ -1,0 +1,14 @@
+Partido|Sexo|Diputados MR|Diputados RP|Total
+ PAN|Mujeres|17|29|46
+ PAN|Hombres|64|42|106
+ PRI|Mujeres|16|20|36
+ PRI|Hombres|145|44|189
+ PRD|Mujeres|13|14|27
+ PRD|Hombres|42|27|69
+ PVEM|Mujeres|1|4|5
+ PVEM|Hombres|2|10|12
+ PT|Mujeres|0|0|0
+ PT|Hombres|0|5|5
+ Convergencia|Mujeres|0|0|0
+ Convergencia|Hombres|0|5|5
+TOTAL||300|200|500

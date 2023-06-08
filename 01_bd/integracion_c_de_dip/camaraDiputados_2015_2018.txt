@@ -1,0 +1,20 @@
+Partido|Sexo|Diputados MR|Diputados RP|Total
+ PAN|Mujeres|22|25|47
+ PAN|Hombres|34|28|62
+ PRI|Mujeres|64|23|87
+ PRI|Hombres|91|25|116
+ PRD|Mujeres|11|13|24
+ PRD|Hombres|23|14|37
+ PVEM|Mujeres|9|9|18
+ PVEM|Hombres|20|9|29
+ Movimiento Ciudadano|Mujeres|4|7|11
+ Movimiento Ciudadano|Hombres|6|8|14
+ Nueva Alianza|Mujeres|0|5|5
+ Nueva Alianza|Hombres|1|5|6
+ MORENA|Mujeres|8|10|18
+ MORENA|Hombres|6|11|17
+ Encuentro Social|Mujeres|0|3|3
+ Encuentro Social|Hombres|0|5|5
+ Candidato Independiente|Mujeres|0|No aplica|0
+ Candidato Independiente|Hombres|1|No aplica|1
+TOTAL||300|200|500

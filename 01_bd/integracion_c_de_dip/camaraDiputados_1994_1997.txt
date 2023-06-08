@@ -1,0 +1,10 @@
+Partido|Sexo|Diputados MR|Diputados RP|Total
+ PAN|Mujeres|1|10|11
+ PAN|Hombres|19|89|108
+ PRI|Mujeres|42|2|44
+ PRI|Hombres|231|25|256
+ PRD|Mujeres|0|16|16
+ PRD|Hombres|7|48|55
+ PT|Mujeres|0|0|0
+ PT|Hombres|0|10|10
+TOTAL||300|200|500
